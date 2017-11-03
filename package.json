@@ -1,0 +1,23 @@
+{
+  "name": "jugnoo_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Day4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milkysingh/Jugnoo_learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milkysingh/Jugnoo_learning/issues"
+  },
+  "homepage": "https://github.com/milkysingh/Jugnoo_learning#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
